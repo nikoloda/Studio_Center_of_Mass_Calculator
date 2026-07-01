@@ -10,8 +10,8 @@ This program is designed to be accessible for people with little technical exper
 
 <table>
   <tr>
-    <td align="center"><b>Before</b><br/>Before vs. After in Studio (Note: Parts were made transparent manually)</td>
-    <td align="center"><b>After</b><br/>red technic ball (32474) at center of mass</td>
+    <td align="center"><b>Before</b><br/></td>
+    <td align="center"><b>After</b>(Note: Parts were made transparent manually)<br/>red technic ball (32474) at center of mass</td>
   </tr>
   <tr>
     <td><img src="assets/Before_CoM.png" alt="Before center of mass calculation" width="100%"/></td>

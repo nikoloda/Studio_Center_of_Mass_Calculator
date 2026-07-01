@@ -41,7 +41,7 @@ This program is designed to be accessible for people with little technical exper
 ## Project layout
 
 ```
-Studio_Center_of_Mass/
+Studio_Center_of_Mass_Calculator/
 ├── assets/
 │   ├── Before_CoM.png          # readme screenshots
 │   ├── After_CoM.png
@@ -62,9 +62,11 @@ Both source files use `namespace StudioCenterOfMass;`, so they compile into one 
 
 ## Setup
 
-1. Register for BrickLink API access at [bricklink.com/v3/api.page](https://www.bricklink.com/v3/api.page) using the 0.0.0.0 IP option
+1. Either clone the repo, or download the ZIP file from this page and extract locally.
+  
+3. Register for BrickLink API access at [bricklink.com/v3/api.page](https://www.bricklink.com/v3/api.page) using the 0.0.0.0 IP option
 
-2. Find the .env file in the project root:
+4. Find the .env file in the project root:
 
 ```env
 BRICKLINK_CONSUMER_KEY=your_consumer_key
@@ -73,7 +75,7 @@ BRICKLINK_TOKEN_VALUE=your_token_value
 BRICKLINK_TOKEN_SECRET=your_token_secret
 ```
 
-3. Paste in the values from the BrickLink API access token you created in step 1
+4. Paste in the values from the BrickLink API access token you created in step 1
 
 ## Run
 
